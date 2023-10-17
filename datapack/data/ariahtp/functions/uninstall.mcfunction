@@ -1,0 +1,1 @@
+execute as @e[tag=ariahtp.teleporter] run function ariahtp:delete

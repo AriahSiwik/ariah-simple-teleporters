@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": "AriahKS",
+        "description": [
+            {
+                "text": "Datapacks by AriahKS",
+                "color": "dark_green"
+            }
+        ],
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'AriahKS'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

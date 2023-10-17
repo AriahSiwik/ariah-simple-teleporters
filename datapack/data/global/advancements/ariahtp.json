@@ -1,0 +1,66 @@
+{
+    "display": {
+        "title": "Ariah's Simple Teleporters",
+        "description": [
+            {
+                "text": "Adds simple two-way teleporters to the game. Drop an ",
+                "color": "green"
+            },
+            {
+                "text": "ender pearl",
+                "color": "dark_purple"
+            },
+            {
+                "text": " onto a ",
+                "color": "green"
+            },
+            {
+                "text": "netherite block",
+                "color": "dark_gray"
+            },
+            {
+                "text": " to get a ",
+                "color": "green"
+            },
+            {
+                "text": "linker",
+                "color": "gray"
+            },
+            {
+                "text": ". Drop that onto a different ",
+                "color": "green"
+            },
+            {
+                "text": "netherite block",
+                "color": "dark_gray"
+            },
+            {
+                "text": " to link your teleporter.\n\n",
+                "color": "green"
+            },
+            {
+                "text": "To use a teleporter, either stand on it and throw an ",
+                "color": "green"
+            },
+            {
+                "text": "ender pearl",
+                "color": "dark_purple"
+            },
+            {
+                "text": " in any direction or stand nearby and throw one at the teleporter.",
+                "color": "green"
+            }
+        ],
+        "icon": {
+            "item": "minecraft:ender_pearl"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:ariahks",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

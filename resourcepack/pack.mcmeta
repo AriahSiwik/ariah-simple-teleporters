@@ -1,0 +1,8 @@
+{
+    "id": "ariahtp",
+    "pack": {
+        "pack_format": 18,
+	"supported_formats": [16, 18],
+        "description": "Ariah's Simple Teleporters V1.0 (Resources)"
+    }
+}
